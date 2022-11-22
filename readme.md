@@ -2,5 +2,5 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Antoniyo Luis Martinez**
+**Antonio Luis Martinez**, Larry Plotter fan & Git lover.
 
